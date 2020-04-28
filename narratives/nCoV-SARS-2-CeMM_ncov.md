@@ -21,11 +21,4 @@ Since it's first occurence in
 
 
 
-# [Introduction of the S protein mutation can be traced back to two independent events ]
 
-# [Current State of CeMM's virus database ]
-
-
-# [Austrian samples are connected to other European outbreaks ]
-
-# [Austrian samples are connected to other European outbreaks ]
