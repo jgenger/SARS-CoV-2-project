@@ -21,16 +21,11 @@ Since it's first occurence in
 
 
 
-# [Introduction of the S protein mutation can be traced back to two independent events ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region)
+# [Introduction of the S protein mutation can be traced back to two independent events ]
+
+# [Current State of CeMM's virus database ]
 
 
-# [Current State of CeMM's virus database ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region)
+# [Austrian samples are connected to other European outbreaks ]
 
-
-
-# [Austrian samples are connected to other European outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region)
-
-
-# [Austrian samples are connected to other European outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region)
-
-
+# [Austrian samples are connected to other European outbreaks ]
