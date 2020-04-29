@@ -48,7 +48,9 @@ A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowe
 
 # [Outlook: Focus on Austrian outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&p=full&r=division)
 
-Together with its partners all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread.
+Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insides into the mutational dynamics of SARS-CoV-2.
+
+<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells.">
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region)
 
