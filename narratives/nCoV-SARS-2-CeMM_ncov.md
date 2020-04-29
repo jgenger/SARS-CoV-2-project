@@ -29,7 +29,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
 
-* However, thanks to virus sequencing efforts all over the world, we can trace the S D23043G back to its origin and learn how the virus spreads. 
+* However, thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D23043G back to its origin and learn how the virus spreads. 
 * The S The first two occurences of the D23043G mutation were connected to transmissions from China to the United Kingdom and Germany on the 22nd and 28th of January, respectively. 
 
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
@@ -44,9 +44,10 @@ This observation is in line with the results from our mutational analysis of SAR
 
 # [Local outbreaks in Austria are closely connected to other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?f_country=Austria&d=map&r=location)
 
-A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer the transmission lines that led to the introduction of SARS-CoV-2 to Austria. We were able to identify introduction events connected to outbreaks in the United Kingdom, Spain, Iceland, France, and Italy.
+* A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer the transmission lines that led to the introduction of SARS-CoV-2 to Austria. 
+* We were able to identify introduction events connected to outbreaks in the United Kingdom, Spain, Iceland, France, and Italy.
 
-# [Outlook: Focus on Austrian outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&p=full&r=division)
+# [Outlook: Focus on Austrian outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&d=tree,map&r=division)
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insides into the mutational dynamics of SARS-CoV-2.
 
