@@ -29,11 +29,11 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
 
 * However, thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads. 
-* Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January, respectively were connected to transmissions from China.
+* Our preliminary data suggest that the first two occurences of the D614G mutation in the United Kingdom and Germany on the 22nd and 28th of January were connected to transmissions from China.
 
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
-* We estimate that these two introduction events lead quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria.
+* We estimate that these two introduction events led quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria.
 * In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
 * Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
 
