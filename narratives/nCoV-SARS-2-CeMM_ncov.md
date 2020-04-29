@@ -28,11 +28,7 @@ Analysis of mutational signatures in the SARS-CoV-2 genome revealed a major bran
 
 The S D23043G mutation occured first in two transmission from China to the United Kingdom and Germany on the 22nd and 28th of January, respectively. 
 
-# [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
-
-The S D23043G mutation occured first in two transmission from China to the United Kingdom and Germany on the 22nd and 28th of January, respectively. 
-
-# [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&p=full)
+# [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
 These two introduction events lead quickly to local outbreaks in France, Italy, Denmark, Iceland and Austria.
 
