@@ -34,9 +34,9 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
-  * These two introduction events lead quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria. 
-  * In the following weeks, viruses originating from these two introduction events spread all over Europe and established as the dominant strains in many European countries. 
-  * Moreover, we can observe further transmission of this strain to the USA and a subsequent reintroduction of the strain from the USA to many European countries.
+* These two introduction events lead quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria. 
+* In the following weeks, viruses originating from these two introduction events spread all over Europe and established as the dominant strains in many European countries. 
+* Moreover, we can observe further transmission of this strain to the USA and a subsequent reintroduction of the strain from the USA to many European countries.
 
 # [Local outbreaks in Austria are closely connected to other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&f_country=Austria&d=tree)
 
