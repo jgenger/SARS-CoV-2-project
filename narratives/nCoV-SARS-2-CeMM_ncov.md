@@ -30,7 +30,16 @@ The S D23043G mutation occured first in two transmission from China to the Unite
 
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
-These two introduction events lead quickly to local outbreaks in France, Italy, Denmark, Iceland and Austria.
+These two introduction events lead quickly to local outbreaks in France, Italy, Denmark, Iceland, Russia, Turkey and Austria.
+
+# [Local outbreaks in Austria are closely connected to other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&f_country=Austria&d=tree)
+
+Most of the patient samples from Austrian patients show the same S D23043G mutation shared by many other European strains.
+
+# [Local outbreaks in Austria are closely connected to other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?f_country=Austria&d=map&r=location)
+
+A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer the transmission lines that led to the introduction of SARS-CoV-2 to Austria. We were able to identify introduction events connected from the United Kingdom, France, Spain, Iceland and Italy.
+
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region)
 
