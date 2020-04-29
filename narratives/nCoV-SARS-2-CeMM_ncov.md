@@ -34,9 +34,9 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
-* These two introduction events lead quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria. 
-* In the following weeks, viruses originating from these two introduction events spread all over Europe and established as the dominant strains in many European countries. 
-* Moreover, we can observe further transmission of this strain to the USA and a subsequent reintroduction of the strain from the USA to many European countries.
+  * These two introduction events lead quickly to local outbreaks in France, Belgium, Italy, Denmark, Iceland, Russia, Turkey and also Austria.
+  * In the following weeks, viruses originating from these two introduction events spread all over Europe and established as the dominant strains in many European countries.
+  * Moreover, we can observe further transmission of this strain to the USA and a subsequent reintroduction of the strain from the USA to many European countries.
 
 # [Local outbreaks in Austria are closely connected to other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&f_country=Austria&d=tree)
 
@@ -44,18 +44,15 @@ This observation is in line with the results from our mutational analysis of SAR
 
 # [Local outbreaks in Austria are closely connected to other European outbreaks](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?f_country=Austria&d=map&r=location)
 
-A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer the transmission lines that led to the introduction of SARS-CoV-2 to Austria. We were able to identify introduction events connected from the United Kingdom, Spain, Iceland, France, and Italy.
+A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer the transmission lines that led to the introduction of SARS-CoV-2 to Austria. We were able to identify introduction events connected to outbreaks in the United Kingdom, Spain, Iceland, France, and Italy.
 
-# [Outlook: Focus on outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?f_country=Austria&d=map&r=location)
+# [Outlook: Focus on Austrian outbreaks ](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&p=full&r=division)
 
-A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to infer the transmission lines that led to the introduction of SARS-CoV-2 to Austria. We were able to identify introduction events connected from the United Kingdom, France, Spain, Iceland and Italy.
+Together with its partners all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread.
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
 2. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
-
-https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-01-29&d=map
-https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-01-28&p=full&s=Germany/BavPat1/2020
 
