@@ -14,23 +14,27 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 The first cases of COVID-19 were described in December 2019[2]. Since then, SARS-CoV-2 spread first to different provinces in China and could then even establish outbreaks in countries all over the world.
 
-
 Sequencing the genomes of viruses isolated from infected patients can help us to understand the evolution of the virus. Mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections to foreign infection clusters and to infer transmission lines.
-
 
 Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with more than 8000 viral genomes from 59 countries on 5 continents. 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
 
-Analysis of mutational signatures revealed a major branching event in the SARS-CoV-2 phylogeny that occured already in the early stages of the pandemic in January 2020. This branching event is characterised by a mutation in codon 614 of the S protein. The the viral S protein interacts with ACE2 surface proteins on target cells and mediates viral entry into the cell. However, it is not clear whether this mutation confers an enhanced function.
+Analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branching event in the SARS-CoV-2 phylogeny. This branching event occured already in the early stages of the pandemic in January 2020 and bases on a mutation in codon 614 of the S protein. The the viral S protein interacts with ACE2 surface proteins on target cells and mediates viral entry into the cell. However, it is not clear whether the S D23043G mutation has an effect on the function of the S protein.
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells.</figcaption>
 
-# [Early European infection clusters are characterised by the S D23043G mutation](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
+# [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
 
+The S D23043G mutation occured first in two transmission from China to the United Kingdom and Germany on the 22nd and 28th of January, respectively. 
 
-https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-01-29&d=map
-https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-01-28&p=full&s=Germany/BavPat1/2020
+# [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-02-24&dmin=2020-01-11&d=map&s=Germany/BavPat1/2020)
+
+The S D23043G mutation occured first in two transmission from China to the United Kingdom and Germany on the 22nd and 28th of January, respectively. 
+
+# [The S D23043G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&p=full)
+
+These two introduction events lead quickly to local outbreaks in France, Italy, Denmark, Iceland and Austria.
 
 # [Citations](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region)
 
@@ -38,5 +42,6 @@ https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2
 
 2. Wu, F., Zhao, S., Yu, B., Chen, Y.-M., Wang, W., Song, Z.-G., Hu, Y., Tao, Z.-W., Tian, J.-H., Pei, Y.-Y., et al. (2020). [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3), Nature 579, 265–269.
 
-
+https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-01-29&d=map
+https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&dmax=2020-01-28&p=full&s=Germany/BavPat1/2020
 
