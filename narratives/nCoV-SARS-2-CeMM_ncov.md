@@ -12,11 +12,11 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
-The first cases of COVID-19 were described in December 2019[2]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
+  *The first cases of COVID-19 were described in December 2019[2]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
 
-Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and to infer transmission lines.
+  *Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and to infer transmission lines.
 
-Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents. 
+  *Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents. 
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
 
