@@ -12,6 +12,8 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
+# Can we use external images in the big windows?
+```auspiceMainDisplayMarkdown
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png"/>
@@ -24,6 +26,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 * Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
 </p>
 </div>
+```
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
 
