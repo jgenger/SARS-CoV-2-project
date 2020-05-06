@@ -10,19 +10,20 @@ abstract: "This project was launched on 27 March 2020 by CeMM in close collabora
 The project aims at sequencing 1,000 viral genomes obtained from Austrian patient-derived samples, in order to learn more about the molecular understanding of the COVID-19 pandemic and the causative pathogen. The project results will integrate Austrian viral genome data into a global map of SARS-CoV-2 mutations, which will help decipher the mutational dynamics underlying the COVID-19 pandemic."
 ---
 
-#Tracking SARS-CoV-2
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png"/>
 </p>
 <p>
-
 * The first cases of COVID-19 were described in December 2019[3]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
-
+<br><br>
 * Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and to infer transmission lines.
-
+<br><br>
 * Until today, CeMM sequenced viral genomes from 21 Austrian patients. In the following analysis, we compared these samples with 8343 viral genomes from 59 countries on all continents.
+</p>
+</div>
 
 # [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=gt-S_614&d=tree,entropy)
 
