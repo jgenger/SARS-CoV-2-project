@@ -15,7 +15,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 ```auspiceMainDisplayMarkdown
 
-# Can we use external images in the big windows?
+#Can we use external images in the big windows?
 
 <div width="50%" margin="auto">
 <p>
