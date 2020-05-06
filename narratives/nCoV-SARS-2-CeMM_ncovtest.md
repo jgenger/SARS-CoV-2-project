@@ -27,7 +27,7 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 
 <div width="100%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png"/>
+<img width="1000px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png"/>
 </p>
 </div>
 ```
