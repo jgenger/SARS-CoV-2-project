@@ -52,6 +52,18 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
+
+* You want to explore the data on your own and create your own narratives? Then we can provide you with some useful links!
+
+* How to read phylogenetic trees with nextstrain: <https://nextstrain.org/narratives/trees-background>
+
+* What you can show with narratives: <https://nextstrain.org/narratives/intro-to-narratives>
+
+* How you can write your own narrative: <https://nextstrain.org/docs/narratives/introduction>
+
+* You can find examples of existing narratives here and adjust them to create your own version: <https://github.com/jgenger/nCoV-SARS-2-CeMM/tree/master/examplenarratives> 
+
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
