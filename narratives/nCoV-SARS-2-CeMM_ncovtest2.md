@@ -64,8 +64,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 # [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&d=tree,map&r=division)
 
-* You want to explore the data on your own and create your own narratives? Then we can provide you here with some useful links!
-<br><br>
+* You want to explore the data on your own and create your own narratives? Then we can provide you with some useful links!
 
 * [How to read phylogenetic trees with nextstrain](https://nextstrain.org/narratives/trees-background)
 <br><br>
