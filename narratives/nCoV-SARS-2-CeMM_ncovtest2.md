@@ -76,9 +76,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 * [How you can write your own narrative](https://nextstrain.org/docs/narratives/introduction)
 <br><br>
 
-* You can find examples of existing narratives [here]()
-
-
+* You can find examples of existing narratives [here](https://github.com/jgenger/nCoV-SARS-2-CeMM/tree/master/examplenarratives) and adjust them to create your own version
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
