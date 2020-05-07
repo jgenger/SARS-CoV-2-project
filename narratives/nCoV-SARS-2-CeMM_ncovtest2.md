@@ -62,7 +62,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
-# [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?c=division&f_country=Austria&d=tree,map&r=division)
+# [Explore the data on your own!](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=location&c=location)
 
 * You want to explore the data on your own and create your own narratives? Then we can provide you with some useful links!
 
@@ -73,8 +73,6 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 * How you can write your own narrative: <https://nextstrain.org/docs/narratives/introduction>
 
 * You can find examples of existing narratives here and adjust them to create your own version: <https://github.com/jgenger/nCoV-SARS-2-CeMM/tree/master/examplenarratives> 
-
-<figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
