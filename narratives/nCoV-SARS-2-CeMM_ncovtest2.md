@@ -68,11 +68,11 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 
 * How to read phylogenetic trees with nextstrain: <https://nextstrain.org/narratives/trees-background>
 
-* [What you can show with narratives](https://nextstrain.org/narratives/intro-to-narratives)
+* What you can show with narratives: <https://nextstrain.org/narratives/intro-to-narratives>
 
-* [How you can write your own narrative](https://nextstrain.org/docs/narratives/introduction)
+* How you can write your own narrative: <https://nextstrain.org/docs/narratives/introduction>
 
-* You can find examples of existing narratives [here](https://github.com/jgenger/nCoV-SARS-2-CeMM/tree/master/examplenarratives) and adjust them to create your own version
+* You can find examples of existing narratives here and adjust them to create your own version: <https://github.com/jgenger/nCoV-SARS-2-CeMM/tree/master/examplenarratives> 
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/f/c/csm_Illustration-SARS-CoV-2_1_Bobby-Rajesh-Malhotra_CeMM_8f76ab32e9.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>© Bobby Rajesh Malhotra / CeMM</figcaption>
 
