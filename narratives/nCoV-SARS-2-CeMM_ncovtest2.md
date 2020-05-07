@@ -67,13 +67,10 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 * You want to explore the data on your own and create your own narratives? Then we can provide you with some useful links!
 
 * [How to read phylogenetic trees with nextstrain](https://nextstrain.org/narratives/trees-background)
-<br><br>
 
 * [What you can show with narratives](https://nextstrain.org/narratives/intro-to-narratives)
-<br><br>
 
 * [How you can write your own narrative](https://nextstrain.org/docs/narratives/introduction)
-<br><br>
 
 * You can find examples of existing narratives [here](https://github.com/jgenger/nCoV-SARS-2-CeMM/tree/master/examplenarratives) and adjust them to create your own version
 
