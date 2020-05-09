@@ -1,5 +1,5 @@
 ---
-title: Mutational Dynamics of SARS-CoV-2 in Austria - Report 1
+title: Mutational Dynamics of SARS-CoV-2 in Austria
 
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
