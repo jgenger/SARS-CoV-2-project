@@ -34,7 +34,7 @@ abstract: "This project was launched on 27 March 2020 by CeMM in close collabora
 #[Video S D614G - Asia](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Asia&l=clock&p=full&r=country)
 1234
 
-#[Video S D614G - Europe+North America](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Europe,North America&l=clock&p=full&r=country)
+#[Video S D614G - Europe+North America](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Europe,North%20America&l=clock&p=full&r=country)
 1234
 
 #[Video S D614G - Asia+Oceania](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Asia,Oceania&l=clock&p=full&r=country)
