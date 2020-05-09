@@ -11,7 +11,6 @@ The project aims at sequencing 1,000 viral genomes obtained from Austrian patien
 ---
 # [World Map by Country](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=map&r=country&c=region)
 1234
-
 # [Radial Tree by Country](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree&l=radial&p=full&r=country)
 1234
 # [Radial Tree by Country](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?d=tree&l=unrooted&p=full&r=country)
