@@ -17,15 +17,4 @@ abstract: "This project was launched on 27 March 2020 by CeMM in close collabora
 1234
 # [Unrooted Tree by S D614G](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=tree&l=unrooted&p=full&r=country)
 1234
-#[Clock by Country](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&d=tree&l=clock&p=full&r=country)
-1234
-#[Video S D614G - Europe](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Europe&l=clock&p=full&r=country)
-1234
-#[Video S D614G - Europe+Asia](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Europe,Asia&l=clock&p=full&r=country)
-1234
-#[Video S D614G - Europe+Asia](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Asia&l=clock&p=full&r=country)
-1234
-#[Video S D614G - Europe+Asia](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Europe,,North America&l=clock&p=full&r=country)
-1234
-#[Video S D614G - Asia+Oceania](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/ncov?branchLabel=none&c=gt-S_614&d=map&f_region=Asia,Oceania&l=clock&p=full&r=country)
-1234
+
