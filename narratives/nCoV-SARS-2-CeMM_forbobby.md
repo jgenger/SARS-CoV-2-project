@@ -1,5 +1,5 @@
 ---
-title: Illustrations
+title: "Illustrations"
 
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
