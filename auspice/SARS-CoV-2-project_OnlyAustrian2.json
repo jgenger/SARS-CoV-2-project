@@ -527,6 +527,10 @@
             "latitude": 47.0914655,
             "longitude": 11.4666757
           },
+          "Strass im Zillertal": {
+            "latitude": 47.395748,
+            "longitude": 11.8221112
+          },
           "Styria": {
             "latitude": 47.359344,
             "longitude": 14.469983
@@ -534,6 +538,10 @@
           "Teheran": {
             "latitude": 35.715298,
             "longitude": 51.404343
+          },
+          "Tyrol": {
+            "latitude": 47.259659,
+            "longitude": 11.400375
           },
           "Venice": {
             "latitude": 45.4408,
