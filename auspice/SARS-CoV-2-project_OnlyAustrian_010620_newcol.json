@@ -27,6 +27,30 @@
           [
             "China",
             "#298236"
+          ],
+          [
+            "Vienna",
+            "#30833F"
+          ],
+          [
+            "Lower Austria",
+            "#F8B100"
+          ],
+          [
+            "Burgenland",
+            "#005564"
+          ],
+          [
+            "Tyrol",
+            "#D2323C"
+          ],
+          [
+            "Styria",
+            "#005564"
+          ],
+          [
+            "Salzburg",
+            "#005564"
           ]
         ],
         "title": "Federal State",
