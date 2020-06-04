@@ -2,9 +2,11 @@
 title: West African Ebola Outbreak
 authors: "Ashley Anderson"
 date: "July 2018"
-dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19:/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=clade_membership"
+dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19"
 ---
-# [Summary](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/OnlyAustrianv19:/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?branchLabel=clade&c=clade_membership)
+# [Summary](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=gt-nuc_28883&d=map&dmax=2020-03-01&p=full&r=region)
 
 In December 2013, a devastating outbreak of Ebolavirus began in Western Africa, specifically Sierra Leone, Liberia, and Guinea. Approximately 28,000 cases of Ebolavirus were observed during this time period (Havard). The outbreak presisted for approximately 3 years causing a significant loss of life and disruption to the economy of the respective divisions. Many individuals have been dedicated to better understanding this virus in hopes of preventing future epidemics.
+
+# [12832](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=gt-nuc_12832&d=map&dmax=2020-04-28&f_region=Europe&p=full&r=division)
 
