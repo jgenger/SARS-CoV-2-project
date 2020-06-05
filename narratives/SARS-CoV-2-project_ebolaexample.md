@@ -6,10 +6,8 @@ dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/Nextstrain
 ---
 
 
-# [1059](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=gt-nuc_1059&dmax=2020-03-14&m=div)
-
-
 #[1059](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=gt-nuc_15380&dmax=2020-03-14&f_country=Austria,Denmark,France,Germany,Hungary,Ireland,Italy,Norway,Poland,Romania,United%20Kingdom&f_region=Europe&m=div&r=division)
 
 # [15380](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19?c=gt-nuc_15380&dmax=2020-03-14&f_country=Austria,Denmark,France,Hungary,Ireland,Italy,Norway,Poland,Romania&f_region=Europe&m=div)
+
 
