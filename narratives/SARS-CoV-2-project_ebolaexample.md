@@ -1,7 +1,7 @@
 ---
 title: West African Ebola Outbreak
-authors: "Ashley Anderson"
-date: "July 2018"
+authors: "Jakob Genger"
+date: "June 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/v19IceAustria"
 ---
 # [Summary](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/v19IceAustria?branchLabel=clade&d=tree&m=div&p=full)
