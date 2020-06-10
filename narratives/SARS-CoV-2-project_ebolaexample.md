@@ -7,9 +7,9 @@ abstract: "bla"
 ---
 
 
-#[Global clades](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19newclades?c=clade_membership&r=region)
+#[Global clades](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19newclades?c=clade_membership&r=region&d=map)
 bla
 
-# [European Clades](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19newclades?c=clade_membership&f_region=Europe)
+# [European Clades](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19newclades?c=clade_membership&d=map&f_region=Europe&p=full)
 bla
 
