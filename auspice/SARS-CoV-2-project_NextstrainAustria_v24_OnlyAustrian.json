@@ -656,9 +656,6 @@
   },
   "tree": {
     "branch_attrs": {
-      "labels": {
-        "clade": "#19A"
-      },
       "mutations": {}
     },
     "children": [
@@ -673,7 +670,7 @@
             "value": "Zhang et al"
           },
           "clade_membership": {
-            "value": "#19A"
+            "value": "unassigned"
           },
           "country": {
             "confidence": {
@@ -777,7 +774,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#19A"
+                    "value": "unassigned"
                   },
                   "clusterID": {
                     "value": "ClusterS"
@@ -864,7 +861,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#19A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -930,7 +927,7 @@
             "name": "NODE_0000002",
             "node_attrs": {
               "clade_membership": {
-                "value": "#19A"
+                "value": "unassigned"
               },
               "country": {
                 "confidence": {
@@ -980,8 +977,7 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "ORF8: L84S",
-                "clade": "#19B"
+                "aa": "ORF8: L84S"
               },
               "mutations": {
                 "ORF8": [
@@ -1023,7 +1019,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#19B"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -1117,7 +1113,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#19B"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -1177,7 +1173,7 @@
             "name": "NODE_0000032",
             "node_attrs": {
               "clade_membership": {
-                "value": "#19B"
+                "value": "unassigned"
               },
               "country": {
                 "confidence": {
@@ -1280,7 +1276,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -1382,7 +1378,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -1442,7 +1438,7 @@
                 "name": "NODE_0000011",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#19A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -1523,7 +1519,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "clusterID": {
                         "value": "ClusterEN"
@@ -1610,7 +1606,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -1705,7 +1701,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#19A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -1797,7 +1793,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#19A"
+                                    "value": "unassigned"
                                   },
                                   "clusterID": {
                                     "value": "ClusterBU"
@@ -1876,7 +1872,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#19A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -1942,7 +1938,7 @@
                             "name": "NODE_0000009",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -2012,7 +2008,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#19A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -2089,7 +2085,7 @@
                                         "value": "Alexandra Popa et al"
                                       },
                                       "clade_membership": {
-                                        "value": "#19A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -2161,7 +2157,7 @@
                                         "value": "Alexandra Popa et al"
                                       },
                                       "clade_membership": {
-                                        "value": "#19A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -2227,7 +2223,7 @@
                                 "name": "NODE_0000015",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "#19A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -2279,7 +2275,7 @@
                             "name": "NODE_0000013",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -2331,7 +2327,7 @@
                         "name": "NODE_0000008",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#19A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -2382,7 +2378,7 @@
                     "name": "NODE_0000014",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -2431,7 +2427,7 @@
                 "name": "NODE_0000012",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#19A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -2480,7 +2476,7 @@
             "name": "NODE_0000010",
             "node_attrs": {
               "clade_membership": {
-                "value": "#19A"
+                "value": "unassigned"
               },
               "country": {
                 "confidence": {
@@ -2567,7 +2563,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -2651,7 +2647,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "clusterID": {
                         "value": "ClusterES"
@@ -2766,7 +2762,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterES"
@@ -2841,7 +2837,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -2901,7 +2897,7 @@
                         "name": "NODE_0000007",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#19A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -2968,7 +2964,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -3050,7 +3046,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -3110,7 +3106,7 @@
                         "name": "NODE_0000020",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#19A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -3162,7 +3158,7 @@
                     "name": "NODE_0000005",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -3214,7 +3210,7 @@
                 "name": "NODE_0000003",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#19A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -3312,7 +3308,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -3398,7 +3394,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -3480,7 +3476,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -3562,7 +3558,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterU"
@@ -3631,7 +3627,7 @@
                         "name": "NODE_0000024",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#19A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -3701,7 +3697,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -3782,7 +3778,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#19A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -3854,7 +3850,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#19A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -3914,7 +3910,7 @@
                             "name": "NODE_0000026",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#19A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -3963,7 +3959,7 @@
                         "name": "NODE_0000025",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#19A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -4013,7 +4009,7 @@
                     "name": "NODE_0000022",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#19A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -4660,7 +4656,7 @@
                 "name": "NODE_0000019",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#19A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -4709,7 +4705,7 @@
             "name": "NODE_0000016",
             "node_attrs": {
               "clade_membership": {
-                "value": "#19A"
+                "value": "unassigned"
               },
               "country": {
                 "confidence": {
@@ -4757,8 +4753,7 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "S: D614G; orf1ab: P4715L",
-                "clade": "#20A"
+                "aa": "S: D614G; orf1ab: P4715L"
               },
               "mutations": {
                 "S": [
@@ -4812,7 +4807,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -4902,7 +4897,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -4985,7 +4980,7 @@
                     "value": "Alexandra Popa et al"
                   },
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "clusterID": {
                     "value": "ClusterER"
@@ -5084,7 +5079,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -5161,7 +5156,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -5233,7 +5228,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "clusterID": {
                             "value": "ClusterBU"
@@ -5296,7 +5291,7 @@
                     "name": "NODE_0000031",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -5347,7 +5342,7 @@
                 "name": "NODE_0000034",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -5430,7 +5425,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -5519,7 +5514,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "clusterID": {
                         "value": "ClusterE"
@@ -5616,7 +5611,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -5698,7 +5693,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterE"
@@ -5790,7 +5785,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -5856,7 +5851,7 @@
                         "name": "NODE_0000036",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -5936,7 +5931,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -6027,7 +6022,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -6099,7 +6094,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -6159,7 +6154,7 @@
                             "name": "NODE_0000170",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -6208,7 +6203,7 @@
                         "name": "NODE_0000038",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -6260,7 +6255,7 @@
                     "name": "NODE_0000035",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -6312,7 +6307,7 @@
                 "name": "NODE_0000164",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -6396,7 +6391,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -6484,7 +6479,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -6560,7 +6555,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -6620,7 +6615,7 @@
                     "name": "NODE_0000207",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -6694,7 +6689,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -6779,7 +6774,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterES"
@@ -6873,7 +6868,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -6945,7 +6940,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -7005,7 +7000,7 @@
                             "name": "NODE_0000210",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -7054,7 +7049,7 @@
                         "name": "NODE_0000209",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -7104,7 +7099,7 @@
                     "name": "NODE_0000208",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -7178,7 +7173,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -7250,7 +7245,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -7310,7 +7305,7 @@
                         "name": "NODE_0000047",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -7374,7 +7369,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -7451,7 +7446,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -7523,7 +7518,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -7583,7 +7578,7 @@
                             "name": "NODE_0000049",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -7632,7 +7627,7 @@
                         "name": "NODE_0000048",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -7679,7 +7674,7 @@
                     "name": "NODE_0000046",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -7726,7 +7721,7 @@
                 "name": "NODE_0000200",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -10306,7 +10301,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -10384,7 +10379,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterF"
@@ -10447,7 +10442,7 @@
                         "name": "NODE_0000066",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -10538,7 +10533,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterBQ"
@@ -10626,7 +10621,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -10703,7 +10698,7 @@
                                         "value": "Alexandra Popa et al"
                                       },
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -10781,7 +10776,7 @@
                                         "value": "Alexandra Popa et al"
                                       },
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -10841,7 +10836,7 @@
                                 "name": "NODE_0000069",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -10890,7 +10885,7 @@
                             "name": "NODE_0000158",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -10955,7 +10950,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -11038,7 +11033,7 @@
                                         "value": "Alexandra Popa et al"
                                       },
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "clusterID": {
                                         "value": "ClusterFI"
@@ -11119,7 +11114,7 @@
                                         "value": "Alexandra Popa et al"
                                       },
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -11185,7 +11180,7 @@
                                 "name": "NODE_0000072",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -11238,7 +11233,7 @@
                             "name": "NODE_0000071",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -11291,7 +11286,7 @@
                         "name": "NODE_0000157",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -11343,7 +11338,7 @@
                     "name": "NODE_0000065",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -11430,7 +11425,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -11516,7 +11511,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "clusterID": {
                                     "value": "ClusterER"
@@ -11579,7 +11574,7 @@
                             "name": "NODE_0000177",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -11649,7 +11644,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -11721,7 +11716,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -11781,7 +11776,7 @@
                             "name": "NODE_0000154",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -11831,7 +11826,7 @@
                         "name": "NODE_0000074",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -11917,7 +11912,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "clusterID": {
                                     "value": "ClusterLP"
@@ -12012,7 +12007,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -12078,7 +12073,7 @@
                             "name": "NODE_0000078",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -12158,7 +12153,7 @@
                                             "value": "Alexandra Popa et al"
                                           },
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "confidence": {
@@ -12236,7 +12231,7 @@
                                             "value": "Alexandra Popa et al"
                                           },
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "confidence": {
@@ -12296,7 +12291,7 @@
                                     "name": "NODE_0000081",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -12366,7 +12361,7 @@
                                             "value": "Alexandra Popa et al"
                                           },
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "clusterID": {
                                             "value": "ClusterAI"
@@ -12456,7 +12451,7 @@
                                                 "value": "Alexandra Popa et al"
                                               },
                                               "clade_membership": {
-                                                "value": "#20A"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "confidence": {
@@ -12534,7 +12529,7 @@
                                                 "value": "Alexandra Popa et al"
                                               },
                                               "clade_membership": {
-                                                "value": "#20A"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "confidence": {
@@ -12600,7 +12595,7 @@
                                         "name": "NODE_0000173",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "confidence": {
@@ -12653,7 +12648,7 @@
                                     "name": "NODE_0000082",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -12706,7 +12701,7 @@
                                 "name": "NODE_0000080",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -12781,7 +12776,7 @@
                                             "value": "Alexandra Popa et al"
                                           },
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "clusterID": {
                                             "value": "ClusterBR"
@@ -12856,7 +12851,7 @@
                                             "value": "Alexandra Popa et al"
                                           },
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "confidence": {
@@ -12916,7 +12911,7 @@
                                     "name": "NODE_0000085",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -12989,7 +12984,7 @@
                                                 "value": "Alexandra Popa et al"
                                               },
                                               "clade_membership": {
-                                                "value": "#20A"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "confidence": {
@@ -13067,7 +13062,7 @@
                                                 "value": "Alexandra Popa et al"
                                               },
                                               "clade_membership": {
-                                                "value": "#20A"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "confidence": {
@@ -13127,7 +13122,7 @@
                                         "name": "NODE_0000088",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "confidence": {
@@ -13193,7 +13188,7 @@
                                                 "value": "Alexandra Popa et al"
                                               },
                                               "clade_membership": {
-                                                "value": "#20A"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "confidence": {
@@ -13265,7 +13260,7 @@
                                                 "value": "Alexandra Popa et al"
                                               },
                                               "clade_membership": {
-                                                "value": "#20A"
+                                                "value": "unassigned"
                                               },
                                               "country": {
                                                 "confidence": {
@@ -13325,7 +13320,7 @@
                                         "name": "NODE_0000089",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "#20A"
+                                            "value": "unassigned"
                                           },
                                           "country": {
                                             "confidence": {
@@ -13376,7 +13371,7 @@
                                     "name": "NODE_0000086",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "#20A"
+                                        "value": "unassigned"
                                       },
                                       "country": {
                                         "confidence": {
@@ -13424,7 +13419,7 @@
                                 "name": "NODE_0000084",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -13474,7 +13469,7 @@
                             "name": "NODE_0000079",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -13525,7 +13520,7 @@
                         "name": "NODE_0000077",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -13576,7 +13571,7 @@
                     "name": "NODE_0000073",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -13627,7 +13622,7 @@
                 "name": "NODE_0000064",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -13704,7 +13699,7 @@
                         "value": "Alexandra Popa et al"
                       },
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "clusterID": {
                         "value": "ClusterS"
@@ -13799,7 +13794,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "clusterID": {
                             "value": "ClusterES"
@@ -13890,7 +13885,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterCM"
@@ -13981,7 +13976,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -14041,7 +14036,7 @@
                         "name": "NODE_0000040",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -14093,7 +14088,7 @@
                     "name": "NODE_0000039",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -14164,7 +14159,7 @@
                             "value": "Alexandra Popa et al"
                           },
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "clusterID": {
                             "value": "ClusterWW_EG"
@@ -14268,7 +14263,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterNG"
@@ -14349,7 +14344,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -14437,7 +14432,7 @@
                                 "value": "Alexandra Popa et al"
                               },
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "clusterID": {
                                 "value": "ClusterOG"
@@ -14521,7 +14516,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -14593,7 +14588,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -14671,7 +14666,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -14754,7 +14749,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -14836,7 +14831,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "clusterID": {
                                     "value": "ClusterAK"
@@ -14911,7 +14906,7 @@
                                     "value": "Alexandra Popa et al"
                                   },
                                   "clade_membership": {
-                                    "value": "#20A"
+                                    "value": "unassigned"
                                   },
                                   "country": {
                                     "confidence": {
@@ -14977,7 +14972,7 @@
                             "name": "NODE_0000045",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "#20A"
+                                "value": "unassigned"
                               },
                               "country": {
                                 "confidence": {
@@ -15026,7 +15021,7 @@
                         "name": "NODE_0000042",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "#20A"
+                            "value": "unassigned"
                           },
                           "country": {
                             "confidence": {
@@ -15077,7 +15072,7 @@
                     "name": "NODE_0000041",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "#20A"
+                        "value": "unassigned"
                       },
                       "country": {
                         "confidence": {
@@ -26099,7 +26094,7 @@
                 "name": "NODE_0000037",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "#20A"
+                    "value": "unassigned"
                   },
                   "country": {
                     "confidence": {
@@ -41995,7 +41990,7 @@
             "name": "NODE_0000033",
             "node_attrs": {
               "clade_membership": {
-                "value": "#20A"
+                "value": "unassigned"
               },
               "country": {
                 "confidence": {
@@ -42042,7 +42037,7 @@
         "name": "NODE_0000344",
         "node_attrs": {
           "clade_membership": {
-            "value": "#19A"
+            "value": "unassigned"
           },
           "country": {
             "confidence": {
@@ -42091,7 +42086,7 @@
     "name": "NODE_0000000",
     "node_attrs": {
       "clade_membership": {
-        "value": "#19A"
+        "value": "unassigned"
       },
       "country": {
         "confidence": {
