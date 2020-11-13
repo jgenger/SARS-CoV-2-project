@@ -7,7 +7,7 @@ abstract: "bla"
 ---
 
 
-#[Global clades](https://nextstrain.org/community/bergthalerlab/SARS-CoV-2/NextstrainAustria?c=region&d=map&p=full&r=region)
+#[Global clades](https://nextstrain.org/community/bergthalerlab/SARS-CoV-2/NextstrainAustria?c=region&d=map&p=map&r=region)
 bla
 
 
